@@ -2,6 +2,7 @@ ArduRTC
 =======
 
 DS1307 RTC (Real Time Clock) Library for Arduino
+
 With this library it is possible to use all the functions of the DS1307 (also the square wave output) 
 
 Released under GPLv2 License 
