@@ -1,5 +1,5 @@
 #include "Wire.h"
-#include "RTC.h"
+#include "ArduRTC.h"
 int wr=0;
 int hours=100;
 int minute=100;

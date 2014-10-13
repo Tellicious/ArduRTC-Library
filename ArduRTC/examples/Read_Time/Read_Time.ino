@@ -1,5 +1,5 @@
 #include "Wire.h"
-#include "RTC.h"
+#include "ArduRTC.h"
 RTC rtc1(0x68);
 void setup(){
 Serial.begin(9600);
